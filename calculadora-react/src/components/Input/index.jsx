@@ -1,11 +1,12 @@
+import { InputContainer } from "./styles"
 
 const Input = () => {
   
 
   return (
-    <div>
-      <h1>Input</h1>
-    </div>
+    <InputContainer>
+      <input/>
+    </InputContainer>
   )
 }
 
